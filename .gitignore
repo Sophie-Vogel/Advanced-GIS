@@ -21,6 +21,7 @@
 *.dat
 *.ini
 *.config
+*.adf
 
 # Output and intermediary files
 *.tif
