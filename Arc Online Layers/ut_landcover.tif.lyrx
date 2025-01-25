@@ -1,0 +1,2908 @@
+{
+  "type" : "CIMLayerDocument",
+  "version" : "3.1.0",
+  "build" : 41833,
+  "layers" : [
+    "CIMPATH=map/ut_landcover_tif.json"
+  ],
+  "layerDefinitions" : [
+    {
+      "type" : "CIMRasterLayer",
+      "name" : "ut_landcover.tif",
+      "uRI" : "CIMPATH=map/ut_landcover_tif.json",
+      "sourceModifiedTime" : {
+        "type" : "TimeInstant"
+      },
+      "useSourceMetadata" : true,
+      "description" : "ut_landcover.tif",
+      "layerElevation" : {
+        "type" : "CIMLayerElevationSurface",
+        "elevationSurfaceLayerURI" : "CIMPATH=Map/7ad9961ebb964e1eacb6b34a881a5189.json"
+      },
+      "layerType" : "Operational",
+      "showLegends" : true,
+      "visibility" : false,
+      "displayCacheType" : "Permanent",
+      "maxDisplayCacheAge" : 5,
+      "showPopups" : true,
+      "serviceLayerID" : -1,
+      "refreshRate" : -1,
+      "refreshRateUnit" : "esriTimeUnitsSeconds",
+      "blendingMode" : "Alpha",
+      "allowDrapingOnIntegratedMesh" : true,
+      "dataConnection" : {
+        "type" : "CIMStandardDataConnection",
+        "workspaceConnectionString" : "DATABASE=..\\Mountain Goat Habitat Project\\Input layers\\ut_landcover",
+        "workspaceFactory" : "Raster",
+        "dataset" : "ut_landcover.tif",
+        "datasetType" : "esriDTAny"
+      },
+      "colorizer" : {
+        "type" : "CIMRasterColorMapColorizer",
+        "resamplingType" : "NearestNeighbor",
+        "noDataColor" : {
+          "type" : "CIMRGBColor",
+          "values" : [
+            255,
+            255,
+            255,
+            0
+          ]
+        },
+        "colors" : [
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              236,
+              156,
+              220,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              188,
+              204,
+              212,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              251,
+              195,
+              188,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              89,
+              25,
+              172,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              199,
+              191,
+              123,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              99,
+              239,
+              167,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              175,
+              167,
+              231,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              175,
+              167,
+              135,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              167,
+              83,
+              79,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              167,
+              167,
+              167,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              151,
+              25,
+              75,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              183,
+              215,
+              215,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              239,
+              239,
+              199,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              239,
+              247,
+              95,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              159,
+              175,
+              239,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              239,
+              199,
+              19,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              95,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              167,
+              247,
+              191,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              215,
+              111,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              192,
+              231,
+              239,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              231,
+              231,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              183,
+              119,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              29,
+              29,
+              29,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              103,
+              107,
+              67,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              14,
+              107,
+              99,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              183,
+              99,
+              239,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              47,
+              135,
+              223,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              67,
+              94,
+              51,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              167,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              55,
+              151,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              75,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              191,
+              127,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              215,
+              127,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              111,
+              18,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              135,
+              91,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              99,
+              71,
+              25,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              199,
+              183,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              83,
+              63,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              143,
+              143,
+              127,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              40,
+              217,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              64,
+              242,
+              128,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              219,
+              242,
+              64,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              144,
+              79,
+              72,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              96,
+              84,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              162,
+              146,
+              56,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              128,
+              39,
+              56,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              8,
+              168,
+              112,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              207,
+              102,
+              43,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              83,
+              95,
+              113,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              162,
+              48,
+              72,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              191,
+              191,
+              250,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              146,
+              154,
+              128,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              162,
+              138,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              64,
+              242,
+              100,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              104,
+              175,
+              206,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              174,
+              226,
+              143,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              176,
+              146,
+              112,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              225,
+              242,
+              104,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              178,
+              100,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              210,
+              178,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              184,
+              104,
+              194,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              143,
+              99,
+              63,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              176,
+              138,
+              21,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              247,
+              202,
+              190,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              127,
+              183,
+              141,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              124,
+              144,
+              205,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              178,
+              227,
+              242,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              55,
+              51,
+              175,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              162,
+              194,
+              35,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              23,
+              133,
+              80,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              131,
+              131,
+              131,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              120,
+              242,
+              194,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              178,
+              104,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              245,
+              247,
+              201,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              201,
+              201,
+              110,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              120,
+              242,
+              131,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              104,
+              163,
+              242,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              36,
+              211,
+              189,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              7,
+              162,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              162,
+              120,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              201,
+              202,
+              227,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              144,
+              56,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              44,
+              195,
+              155,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              28,
+              145,
+              80,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              112,
+              224,
+              84,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              51,
+              242,
+              24,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              84,
+              242,
+              195,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              32,
+              165,
+              92,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              160,
+              242,
+              84,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              163,
+              64,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              96,
+              178,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              186,
+              242,
+              84,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              202,
+              13,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              177,
+              242,
+              64,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              84,
+              112,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              144,
+              65,
+              59,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              64,
+              104,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              112,
+              84,
+              242,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              100,
+              44,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              84,
+              202,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              6,
+              242,
+              84,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              60,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              171,
+              163,
+              242,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              206,
+              107,
+              102,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              186,
+              242,
+              146,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              64,
+              242,
+              92,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              192,
+              7,
+              151,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              42,
+              101,
+              126,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              255,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              137,
+              137,
+              137,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              80,
+              80,
+              80,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              236,
+              211,
+              236,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              177,
+              59,
+              35,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              216,
+              216,
+              216,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              217,
+              13,
+              1,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              35,
+              48,
+              6,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              124,
+              72,
+              100,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              242,
+              176,
+              184,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              20,
+              184,
+              64,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              168,
+              210,
+              146,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              223,
+              133,
+              127,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              150,
+              150,
+              150,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              207,
+              207,
+              150,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              213,
+              221,
+              230,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          },
+          {
+            "type" : "CIMRGBColor",
+            "values" : [
+              0,
+              0,
+              0,
+              100
+            ]
+          }
+        ],
+        "bandID" : -1,
+        "labels" : [
+          "",
+          "North American Alpine Ice Field",
+          "Rocky Mountain Alpine Bedrock and Scree",
+          "Mediterranean California Alpine Bedrock and Scree",
+          "Rocky Mountain Alpine Fell-Field",
+          "Rocky Mountain Cliff and Canyon",
+          "Sierra Nevada Cliff and Canyon",
+          "Western Great Plains Cliff and Outcrop",
+          "Inter-Mountain Basins Cliff and Canyon",
+          "Colorado Plateau Mixed Bedrock Canyon and Tableland",
+          "Inter-Mountain Basins Shale Badland",
+          "Inter-Mountain Basins Active and Stabilized Dune",
+          "Inter-Mountain Basins Volcanic Rock and Cinder Land",
+          "Inter-Mountain Basins Wash",
+          "Inter-Mountain Basins Playa",
+          "North American Warm Desert Bedrock Cliff and Outcrop",
+          "North American Warm Desert Badland",
+          "North American Warm Desert Active and Stabilized Dune",
+          "North American Warm Desert Volcanic Rockland",
+          "North American Warm Desert Wash",
+          "North American Warm Desert Pavement",
+          "North American Warm Desert Playa",
+          "Rocky Mountain Aspen Forest and Woodland",
+          "Rocky Mountain Bigtooth Maple Ravine Woodland",
+          "Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",
+          "Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland",
+          "Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",
+          "Northern Pacific Mesic Subalpine Woodland",
+          "Rocky Mountain Subalpine Mesic Spruce-Fir Forest and Woodland",
+          "Rocky Mountain Lodgepole Pine Forest",
+          "Rocky Mountain Montane Dry-Mesic Mixed Conifer Forest and Woodland",
+          "Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",
+          "Rocky Mountain Montane Mesic Mixed Conifer Forest and Woodland",
+          "Madrean Pine-Oak Forest and Woodland",
+          "Rocky Mountain Ponderosa Pine Woodland",
+          "Southern Rocky Mountain Pinyon-Juniper Woodland",
+          "Colorado Plateau Pinyon-Juniper Woodland",
+          "Great Basin Pinyon-Juniper Woodland",
+          "Inter-Mountain West Aspen-Mixed Conifer Forest and Woodland Complex",
+          "Rocky Mountain Alpine Dwarf-Shrubland",
+          "Inter-Mountain Basins Mat Saltbush Shrubland",
+          "Rocky Mountain Gambel Oak-Mixed Montane Shrubland",
+          "Rocky Mountain Lower Montane-Foothill Shrubland",
+          "Western Great Plains Sandhill Shrubland",
+          "Inter-Mountain Basins Mountain Mahogany Woodland and Shrubland",
+          "Madrean Encinal",
+          "Colorado Plateau Pinyon-Juniper Shrubland",
+          "Great Basin Semi-Desert Chaparral",
+          "Inter-Mountain Basins Big Sagebrush Shrubland",
+          "Great Basin Xeric Mixed Sagebrush Shrubland",
+          "Colorado Plateau Mixed Low Sagebrush Shrubland",
+          "Mogollon Chaparral",
+          "Apacherian-Chihuahuan Mesquite Upland Scrub",
+          "Colorado Plateau Blackbrush-Mormon-tea Shrubland",
+          "Mojave Mid-Elevation Mixed Desert Scrub",
+          "Chihuahuan Succulent Desert Scrub",
+          "Chihuahuan Creosotebush, Mixed Desert and Thorn Scrub",
+          "Sonoran Paloverde-Mixed Cacti Desert Scrub",
+          "Inter-Mountain Basins Mixed Salt Desert Scrub",
+          "Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub",
+          "Sonora-Mojave Creosotebush-White Bursage Desert Scrub",
+          "Sonora-Mojave Mixed Salt Desert Scrub",
+          "Inter-Mountain Basins Montane Sagebrush Steppe",
+          "Southern Rocky Mountain Juniper Woodland and Savanna",
+          "Inter-Mountain Basins Juniper Savanna",
+          "Apacherian-Chihuahuan Piedmont Semi-Desert Grassland and Steppe",
+          "Inter-Mountain Basins Big Sagebrush Steppe",
+          "Inter-Mountain Basins Semi-Desert Shrub Steppe",
+          "Chihuahuan Gypsophilous Grassland and Steppe",
+          "Rocky Mountain Dry Tundra",
+          "Rocky Mountain Subalpine Mesic Meadow",
+          "Southern Rocky Mountain Montane-Subalpine Grassland",
+          "Western Great Plains Foothill and Piedmont Grassland",
+          "Central Mixedgrass Prairie",
+          "Western Great Plains Shortgrass Prairie",
+          "Western Great Plains Sandhill Prairie",
+          "Inter-Mountain Basins Semi-Desert Grassland",
+          "Rocky Mountain Subalpine-Montane Riparian Shrubland",
+          "Rocky Mountain Subalpine-Montane Riparian Woodland",
+          "Rocky Mountain Lower Montane Riparian Woodland and Shrubland",
+          "North American Warm Desert Lower Montane Riparian Woodland and Shrubland",
+          "Western Great Plains Riparian Woodland and Shrubland",
+          "Inter-Mountain Basins Greasewood Flat",
+          "North American Warm Desert Riparian Woodland and Shrubland",
+          "North American Warm Desert Riparian Mesquite Bosque",
+          "North American Arid West Emergent Marsh",
+          "Rocky Mountain Alpine-Montane Wet Meadow",
+          "Temperate Pacific Montane Wet Meadow",
+          "Mediterranean California Subalpine-Montane Fen",
+          "Western Great Plains Saline Depression Wetland",
+          "Chihuahuan-Sonoran Desert Bottomland and Swale Grassland",
+          "Madrean Upper Montane Conifer-Oak Forest and Woodland",
+          "Madrean Pinyon-Juniper Woodland",
+          "Chihuahuan Sandy Plains Semi-Desert Grassland",
+          "Sonora-Mojave-Baja Semi-Desert Chaparral",
+          "Madrean Juniper Savanna",
+          "Chihuahuan Mixed Salt Desert Scrub",
+          "Coahuilan Chaparral",
+          "Great Basin Foothill and Lower Montane Riparian Woodland and Shrubland",
+          "Western Great Plains Floodplain Herbaceous Wetland",
+          "Mediterranean California Red Fir Forest and Woodland",
+          "Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",
+          "Mediterranean California Ponderosa-Jeffrey Pine Forest and Woodland",
+          "Rocky Mountain Foothill Limber Pine-Juniper Woodland",
+          "Wyoming Basins Low Sagebrush Shrubland",
+          "Sonoran Mid-Elevation Desert Scrub",
+          "Western Great Plains Tallgrass Prairie",
+          "North Pacific Montane Grassland",
+          "Southern Colorado Plateau Sand Shrubland",
+          "Western Great Plains Mesquite Woodland and Shrubland",
+          "Open Water",
+          "Developed, Open Space - Low Intensity",
+          "Developed, Medium - High Intensity",
+          "Barren Lands, Non-specific",
+          "Agriculture",
+          "Disturbed, Non-specific",
+          "Recently Burned",
+          "Recently Mined or Quarried",
+          "Invasive Southwest Riparian Woodland and Shrubland",
+          "Invasive Perennial Grassland",
+          "Invasive Perennial Forbland",
+          "Invasive Annual Grassland",
+          "Invasive Annual and Biennial Forbland",
+          "Recently Logged Areas",
+          "Recently Chained Pinyon-Juniper Areas",
+          "Disturbed, Oil well",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "max" : 254,
+        "values" : [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254
+        ]
+      },
+      "attributeTable" : {
+        "type" : "CIMRasterTable",
+        "displayField" : "CODE",
+        "editable" : true
+      }
+    }
+  ],
+  "rGBColorProfile" : "sRGB IEC61966-2.1",
+  "cMYKColorProfile" : "U.S. Web Coated (SWOP) v2",
+  "elevationSurfaceLayerDefinitions" : [
+    {
+      "type" : "CIMElevationSurfaceLayer",
+      "name" : "Ground",
+      "uRI" : "CIMPATH=Map/7ad9961ebb964e1eacb6b34a881a5189.json",
+      "useSourceMetadata" : true,
+      "description" : "Ground",
+      "expanded" : true,
+      "layerType" : "Operational",
+      "showLegends" : false,
+      "visibility" : true,
+      "displayCacheType" : "Permanent",
+      "maxDisplayCacheAge" : 5,
+      "showPopups" : true,
+      "serviceLayerID" : -1,
+      "refreshRate" : -1,
+      "refreshRateUnit" : "esriTimeUnitsSeconds",
+      "blendingMode" : "Alpha",
+      "allowDrapingOnIntegratedMesh" : true,
+      "elevationMode" : "BaseGlobeSurface",
+      "verticalExaggeration" : 1,
+      "color" : {
+        "type" : "CIMRGBColor",
+        "values" : [
+          255,
+          255,
+          255,
+          100
+        ]
+      },
+      "surfaceTINShadingMode" : "Smooth"
+    }
+  ]
+}

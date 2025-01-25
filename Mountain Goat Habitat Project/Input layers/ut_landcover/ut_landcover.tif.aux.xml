@@ -1,0 +1,1005 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <CategoryNames>
+      <Category></Category>
+      <Category>North American Alpine Ice Field</Category>
+      <Category>Rocky Mountain Alpine Bedrock and Scree</Category>
+      <Category>Mediterranean California Alpine Bedrock and Scree</Category>
+      <Category>Rocky Mountain Alpine Fell-Field</Category>
+      <Category>Rocky Mountain Cliff and Canyon</Category>
+      <Category>Sierra Nevada Cliff and Canyon</Category>
+      <Category>Western Great Plains Cliff and Outcrop</Category>
+      <Category>Inter-Mountain Basins Cliff and Canyon</Category>
+      <Category>Colorado Plateau Mixed Bedrock Canyon and Tableland</Category>
+      <Category>Inter-Mountain Basins Shale Badland</Category>
+      <Category>Inter-Mountain Basins Active and Stabilized Dune</Category>
+      <Category>Inter-Mountain Basins Volcanic Rock and Cinder Land</Category>
+      <Category>Inter-Mountain Basins Wash</Category>
+      <Category>Inter-Mountain Basins Playa</Category>
+      <Category>North American Warm Desert Bedrock Cliff and Outcrop</Category>
+      <Category>North American Warm Desert Badland</Category>
+      <Category>North American Warm Desert Active and Stabilized Dune</Category>
+      <Category>North American Warm Desert Volcanic Rockland</Category>
+      <Category>North American Warm Desert Wash</Category>
+      <Category>North American Warm Desert Pavement</Category>
+      <Category>North American Warm Desert Playa</Category>
+      <Category>Rocky Mountain Aspen Forest and Woodland</Category>
+      <Category>Rocky Mountain Bigtooth Maple Ravine Woodland</Category>
+      <Category>Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland</Category>
+      <Category>Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland</Category>
+      <Category>Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland</Category>
+      <Category>Northern Pacific Mesic Subalpine Woodland</Category>
+      <Category>Rocky Mountain Subalpine Mesic Spruce-Fir Forest and Woodland</Category>
+      <Category>Rocky Mountain Lodgepole Pine Forest</Category>
+      <Category>Rocky Mountain Montane Dry-Mesic Mixed Conifer Forest and Woodland</Category>
+      <Category>Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland</Category>
+      <Category>Rocky Mountain Montane Mesic Mixed Conifer Forest and Woodland</Category>
+      <Category>Madrean Pine-Oak Forest and Woodland</Category>
+      <Category>Rocky Mountain Ponderosa Pine Woodland</Category>
+      <Category>Southern Rocky Mountain Pinyon-Juniper Woodland</Category>
+      <Category>Colorado Plateau Pinyon-Juniper Woodland</Category>
+      <Category>Great Basin Pinyon-Juniper Woodland</Category>
+      <Category>Inter-Mountain West Aspen-Mixed Conifer Forest and Woodland Complex</Category>
+      <Category>Rocky Mountain Alpine Dwarf-Shrubland</Category>
+      <Category>Inter-Mountain Basins Mat Saltbush Shrubland</Category>
+      <Category>Rocky Mountain Gambel Oak-Mixed Montane Shrubland</Category>
+      <Category>Rocky Mountain Lower Montane-Foothill Shrubland</Category>
+      <Category>Western Great Plains Sandhill Shrubland</Category>
+      <Category>Inter-Mountain Basins Mountain Mahogany Woodland and Shrubland</Category>
+      <Category>Madrean Encinal</Category>
+      <Category>Colorado Plateau Pinyon-Juniper Shrubland</Category>
+      <Category>Great Basin Semi-Desert Chaparral</Category>
+      <Category>Inter-Mountain Basins Big Sagebrush Shrubland</Category>
+      <Category>Great Basin Xeric Mixed Sagebrush Shrubland</Category>
+      <Category>Colorado Plateau Mixed Low Sagebrush Shrubland</Category>
+      <Category>Mogollon Chaparral</Category>
+      <Category>Apacherian-Chihuahuan Mesquite Upland Scrub</Category>
+      <Category>Colorado Plateau Blackbrush-Mormon-tea Shrubland</Category>
+      <Category>Mojave Mid-Elevation Mixed Desert Scrub</Category>
+      <Category>Chihuahuan Succulent Desert Scrub</Category>
+      <Category>Chihuahuan Creosotebush, Mixed Desert and Thorn Scrub</Category>
+      <Category>Sonoran Paloverde-Mixed Cacti Desert Scrub</Category>
+      <Category>Inter-Mountain Basins Mixed Salt Desert Scrub</Category>
+      <Category>Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub</Category>
+      <Category>Sonora-Mojave Creosotebush-White Bursage Desert Scrub</Category>
+      <Category>Sonora-Mojave Mixed Salt Desert Scrub</Category>
+      <Category>Inter-Mountain Basins Montane Sagebrush Steppe</Category>
+      <Category>Southern Rocky Mountain Juniper Woodland and Savanna</Category>
+      <Category>Inter-Mountain Basins Juniper Savanna</Category>
+      <Category>Apacherian-Chihuahuan Piedmont Semi-Desert Grassland and Steppe</Category>
+      <Category>Inter-Mountain Basins Big Sagebrush Steppe</Category>
+      <Category>Inter-Mountain Basins Semi-Desert Shrub Steppe</Category>
+      <Category>Chihuahuan Gypsophilous Grassland and Steppe</Category>
+      <Category>Rocky Mountain Dry Tundra</Category>
+      <Category>Rocky Mountain Subalpine Mesic Meadow</Category>
+      <Category>Southern Rocky Mountain Montane-Subalpine Grassland</Category>
+      <Category>Western Great Plains Foothill and Piedmont Grassland</Category>
+      <Category>Central Mixedgrass Prairie</Category>
+      <Category>Western Great Plains Shortgrass Prairie</Category>
+      <Category>Western Great Plains Sandhill Prairie</Category>
+      <Category>Inter-Mountain Basins Semi-Desert Grassland</Category>
+      <Category>Rocky Mountain Subalpine-Montane Riparian Shrubland</Category>
+      <Category>Rocky Mountain Subalpine-Montane Riparian Woodland</Category>
+      <Category>Rocky Mountain Lower Montane Riparian Woodland and Shrubland</Category>
+      <Category>North American Warm Desert Lower Montane Riparian Woodland and Shrubland</Category>
+      <Category>Western Great Plains Riparian Woodland and Shrubland</Category>
+      <Category>Inter-Mountain Basins Greasewood Flat</Category>
+      <Category>North American Warm Desert Riparian Woodland and Shrubland</Category>
+      <Category>North American Warm Desert Riparian Mesquite Bosque</Category>
+      <Category>North American Arid West Emergent Marsh</Category>
+      <Category>Rocky Mountain Alpine-Montane Wet Meadow</Category>
+      <Category>Temperate Pacific Montane Wet Meadow</Category>
+      <Category>Mediterranean California Subalpine-Montane Fen</Category>
+      <Category>Western Great Plains Saline Depression Wetland</Category>
+      <Category>Chihuahuan-Sonoran Desert Bottomland and Swale Grassland</Category>
+      <Category>Madrean Upper Montane Conifer-Oak Forest and Woodland</Category>
+      <Category>Madrean Pinyon-Juniper Woodland</Category>
+      <Category>Chihuahuan Sandy Plains Semi-Desert Grassland</Category>
+      <Category>Sonora-Mojave-Baja Semi-Desert Chaparral</Category>
+      <Category>Madrean Juniper Savanna</Category>
+      <Category>Chihuahuan Mixed Salt Desert Scrub</Category>
+      <Category>Coahuilan Chaparral</Category>
+      <Category>Great Basin Foothill and Lower Montane Riparian Woodland and Shrubland</Category>
+      <Category>Western Great Plains Floodplain Herbaceous Wetland</Category>
+      <Category>Mediterranean California Red Fir Forest and Woodland</Category>
+      <Category>Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland</Category>
+      <Category>Mediterranean California Ponderosa-Jeffrey Pine Forest and Woodland</Category>
+      <Category>Rocky Mountain Foothill Limber Pine-Juniper Woodland</Category>
+      <Category>Wyoming Basins Low Sagebrush Shrubland</Category>
+      <Category>Sonoran Mid-Elevation Desert Scrub</Category>
+      <Category>Western Great Plains Tallgrass Prairie</Category>
+      <Category>North Pacific Montane Grassland</Category>
+      <Category>Southern Colorado Plateau Sand Shrubland</Category>
+      <Category>Western Great Plains Mesquite Woodland and Shrubland</Category>
+      <Category>Open Water</Category>
+      <Category>Developed, Open Space - Low Intensity</Category>
+      <Category>Developed, Medium - High Intensity</Category>
+      <Category>Barren Lands, Non-specific</Category>
+      <Category>Agriculture</Category>
+      <Category>Disturbed, Non-specific</Category>
+      <Category>Recently Burned</Category>
+      <Category>Recently Mined or Quarried</Category>
+      <Category>Invasive Southwest Riparian Woodland and Shrubland</Category>
+      <Category>Invasive Perennial Grassland</Category>
+      <Category>Invasive Perennial Forbland</Category>
+      <Category>Invasive Annual Grassland</Category>
+      <Category>Invasive Annual and Biennial Forbland</Category>
+      <Category>Recently Logged Areas</Category>
+      <Category>Recently Chained Pinyon-Juniper Areas</Category>
+      <Category>Disturbed, Oil well</Category>
+    </CategoryNames>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>125.5</HistMax>
+        <BucketCount>126</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>49913793|23593|904783|0|196101|1638242|0|0|429051|15989348|2041033|2052545|361534|567|12591870|161713|0|0|11583|13454|0|6188|7073524|991688|44133|35681|3597654|0|1415635|2064375|1907031|0|1592744|0|2280015|0|25351334|12552227|1362286|121570|3382625|7374723|301606|0|710661|0|10619832|108|22776500|4185875|1690454|664111|0|10319487|960307|0|0|0|17547119|0|1063046|14035|15927694|0|10625|0|626722|9352458|0|325880|554335|661741|0|0|0|0|2304076|339741|4627|943275|22556|0|8197240|10170|3400|534197|528860|0|0|0|0|0|0|0|3217|0|0|0|331750|0|0|0|0|0|5770|0|0|0|981410|0|7548581|2239034|1235758|51110|10405244|101235|192679|197503|506298|588349|0|3637006|777722|337663|514374|57951</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable tableType="thematic">
+      <FieldDefn index="0">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>5</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>1</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>RED</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>GREEN</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>BLUE</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>OPACITY</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>CODE</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>DESCRIPTION</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>49913793</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F></F>
+        <F></F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>23593</F>
+        <F>0.9254901960784314</F>
+        <F>0.611764705882353</F>
+        <F>0.8627450980392157</F>
+        <F>1</F>
+        <F>S001</F>
+        <F>North American Alpine Ice Field</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>904783</F>
+        <F>0.7372549019607844</F>
+        <F>0.8</F>
+        <F>0.8313725490196079</F>
+        <F>1</F>
+        <F>S002</F>
+        <F>Rocky Mountain Alpine Bedrock and Scree</F>
+      </Row>
+      <Row index="3">
+        <F>4</F>
+        <F>196101</F>
+        <F>0.3490196078431372</F>
+        <F>0.09803921568627451</F>
+        <F>0.6745098039215687</F>
+        <F>1</F>
+        <F>S004</F>
+        <F>Rocky Mountain Alpine Fell-Field</F>
+      </Row>
+      <Row index="4">
+        <F>5</F>
+        <F>1638242</F>
+        <F>0.7803921568627451</F>
+        <F>0.7490196078431373</F>
+        <F>0.4823529411764706</F>
+        <F>1</F>
+        <F>S006</F>
+        <F>Rocky Mountain Cliff and Canyon</F>
+      </Row>
+      <Row index="5">
+        <F>8</F>
+        <F>429051</F>
+        <F>0.6862745098039216</F>
+        <F>0.6549019607843137</F>
+        <F>0.5294117647058824</F>
+        <F>1</F>
+        <F>S009</F>
+        <F>Inter-Mountain Basins Cliff and Canyon</F>
+      </Row>
+      <Row index="6">
+        <F>9</F>
+        <F>15989348</F>
+        <F>0.6549019607843137</F>
+        <F>0.3254901960784314</F>
+        <F>0.3098039215686275</F>
+        <F>1</F>
+        <F>S010</F>
+        <F>Colorado Plateau Mixed Bedrock Canyon and Tableland</F>
+      </Row>
+      <Row index="7">
+        <F>10</F>
+        <F>2041033</F>
+        <F>0.6549019607843137</F>
+        <F>0.6549019607843137</F>
+        <F>0.6549019607843137</F>
+        <F>1</F>
+        <F>S011</F>
+        <F>Inter-Mountain Basins Shale Badland</F>
+      </Row>
+      <Row index="8">
+        <F>11</F>
+        <F>2052545</F>
+        <F>0.592156862745098</F>
+        <F>0.09803921568627451</F>
+        <F>0.2941176470588235</F>
+        <F>1</F>
+        <F>S012</F>
+        <F>Inter-Mountain Basins Active and Stabilized Dune</F>
+      </Row>
+      <Row index="9">
+        <F>12</F>
+        <F>361534</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S013</F>
+        <F>Inter-Mountain Basins Volcanic Rock and Cinder Land</F>
+      </Row>
+      <Row index="10">
+        <F>13</F>
+        <F>567</F>
+        <F>0.7176470588235294</F>
+        <F>0.8431372549019608</F>
+        <F>0.8431372549019608</F>
+        <F>1</F>
+        <F>S014</F>
+        <F>Inter-Mountain Basins Wash</F>
+      </Row>
+      <Row index="11">
+        <F>14</F>
+        <F>12591870</F>
+        <F>0.9372549019607843</F>
+        <F>0.9372549019607843</F>
+        <F>0.7803921568627451</F>
+        <F>1</F>
+        <F>S015</F>
+        <F>Inter-Mountain Basins Playa</F>
+      </Row>
+      <Row index="12">
+        <F>15</F>
+        <F>161713</F>
+        <F>0.9372549019607843</F>
+        <F>0.9686274509803922</F>
+        <F>0.3725490196078432</F>
+        <F>1</F>
+        <F>S016</F>
+        <F>North American Warm Desert Bedrock Cliff and Outcrop</F>
+      </Row>
+      <Row index="13">
+        <F>18</F>
+        <F>11583</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0.3725490196078432</F>
+        <F>1</F>
+        <F>S019</F>
+        <F>North American Warm Desert Volcanic Rockland</F>
+      </Row>
+      <Row index="14">
+        <F>19</F>
+        <F>13454</F>
+        <F>0.6549019607843137</F>
+        <F>0.9686274509803922</F>
+        <F>0.7490196078431373</F>
+        <F>1</F>
+        <F>S020</F>
+        <F>North American Warm Desert Wash</F>
+      </Row>
+      <Row index="15">
+        <F>21</F>
+        <F>6188</F>
+        <F>0.7529411764705882</F>
+        <F>0.9058823529411765</F>
+        <F>0.9372549019607843</F>
+        <F>1</F>
+        <F>S022</F>
+        <F>North American Warm Desert Playa</F>
+      </Row>
+      <Row index="16">
+        <F>22</F>
+        <F>7073524</F>
+        <F>0.9058823529411765</F>
+        <F>0.9058823529411765</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S023</F>
+        <F>Rocky Mountain Aspen Forest and Woodland</F>
+      </Row>
+      <Row index="17">
+        <F>23</F>
+        <F>991688</F>
+        <F>0.7176470588235294</F>
+        <F>0.4666666666666667</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S024</F>
+        <F>Rocky Mountain Bigtooth Maple Ravine Woodland</F>
+      </Row>
+      <Row index="18">
+        <F>24</F>
+        <F>44133</F>
+        <F>0.1137254901960784</F>
+        <F>0.1137254901960784</F>
+        <F>0.1137254901960784</F>
+        <F>1</F>
+        <F>S025</F>
+        <F>Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland</F>
+      </Row>
+      <Row index="19">
+        <F>25</F>
+        <F>35681</F>
+        <F>0.403921568627451</F>
+        <F>0.4196078431372549</F>
+        <F>0.2627450980392157</F>
+        <F>1</F>
+        <F>S026</F>
+        <F>Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland</F>
+      </Row>
+      <Row index="20">
+        <F>26</F>
+        <F>3597654</F>
+        <F>0.05490196078431373</F>
+        <F>0.4196078431372549</F>
+        <F>0.3882352941176471</F>
+        <F>1</F>
+        <F>S028</F>
+        <F>Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland</F>
+      </Row>
+      <Row index="21">
+        <F>28</F>
+        <F>1415635</F>
+        <F>0.1843137254901961</F>
+        <F>0.5294117647058824</F>
+        <F>0.8745098039215686</F>
+        <F>1</F>
+        <F>S030</F>
+        <F>Rocky Mountain Subalpine Mesic Spruce-Fir Forest and Woodland</F>
+      </Row>
+      <Row index="22">
+        <F>29</F>
+        <F>2064375</F>
+        <F>0.2627450980392157</F>
+        <F>0.3686274509803922</F>
+        <F>0.2</F>
+        <F>1</F>
+        <F>S031</F>
+        <F>Rocky Mountain Lodgepole Pine Forest</F>
+      </Row>
+      <Row index="23">
+        <F>30</F>
+        <F>1907031</F>
+        <F>0</F>
+        <F>0.6549019607843137</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S032</F>
+        <F>Rocky Mountain Montane Dry-Mesic Mixed Conifer Forest and Woodland</F>
+      </Row>
+      <Row index="24">
+        <F>32</F>
+        <F>1592744</F>
+        <F>0</F>
+        <F>0.2941176470588235</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S034</F>
+        <F>Rocky Mountain Montane Mesic Mixed Conifer Forest and Woodland</F>
+      </Row>
+      <Row index="25">
+        <F>34</F>
+        <F>2280015</F>
+        <F>0.8431372549019608</F>
+        <F>0.4980392156862745</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S036</F>
+        <F>Rocky Mountain Ponderosa Pine Woodland</F>
+      </Row>
+      <Row index="26">
+        <F>36</F>
+        <F>25351334</F>
+        <F>0.5294117647058824</F>
+        <F>0.3568627450980392</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S039</F>
+        <F>Colorado Plateau Pinyon-Juniper Woodland</F>
+      </Row>
+      <Row index="27">
+        <F>37</F>
+        <F>12552227</F>
+        <F>0.3882352941176471</F>
+        <F>0.2784313725490196</F>
+        <F>0.09803921568627451</F>
+        <F>1</F>
+        <F>S040</F>
+        <F>Great Basin Pinyon-Juniper Woodland</F>
+      </Row>
+      <Row index="28">
+        <F>38</F>
+        <F>1362286</F>
+        <F>0.7803921568627451</F>
+        <F>0.7176470588235294</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S042</F>
+        <F>Inter-Mountain West Aspen-Mixed Conifer Forest and Woodland Complex</F>
+      </Row>
+      <Row index="29">
+        <F>39</F>
+        <F>121570</F>
+        <F>0</F>
+        <F>0.3254901960784314</F>
+        <F>0.2470588235294118</F>
+        <F>1</F>
+        <F>S043</F>
+        <F>Rocky Mountain Alpine Dwarf-Shrubland</F>
+      </Row>
+      <Row index="30">
+        <F>40</F>
+        <F>3382625</F>
+        <F>0.5607843137254902</F>
+        <F>0.5607843137254902</F>
+        <F>0.4980392156862745</F>
+        <F>1</F>
+        <F>S045</F>
+        <F>Inter-Mountain Basins Mat Saltbush Shrubland</F>
+      </Row>
+      <Row index="31">
+        <F>41</F>
+        <F>7374723</F>
+        <F>0.1568627450980392</F>
+        <F>0.8509803921568627</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S046</F>
+        <F>Rocky Mountain Gambel Oak-Mixed Montane Shrubland</F>
+      </Row>
+      <Row index="32">
+        <F>42</F>
+        <F>301606</F>
+        <F>0.2509803921568627</F>
+        <F>0.9490196078431372</F>
+        <F>0.5019607843137255</F>
+        <F>1</F>
+        <F>S047</F>
+        <F>Rocky Mountain Lower Montane-Foothill Shrubland</F>
+      </Row>
+      <Row index="33">
+        <F>44</F>
+        <F>710661</F>
+        <F>0.5647058823529412</F>
+        <F>0.3098039215686275</F>
+        <F>0.2823529411764706</F>
+        <F>1</F>
+        <F>S050</F>
+        <F>Inter-Mountain Basins Mountain Mahogany Woodland and Shrubland</F>
+      </Row>
+      <Row index="34">
+        <F>46</F>
+        <F>10619832</F>
+        <F>0.6352941176470588</F>
+        <F>0.5725490196078431</F>
+        <F>0.2196078431372549</F>
+        <F>1</F>
+        <F>S052</F>
+        <F>Colorado Plateau Pinyon-Juniper Shrubland</F>
+      </Row>
+      <Row index="35">
+        <F>47</F>
+        <F>108</F>
+        <F>0.5019607843137255</F>
+        <F>0.1529411764705883</F>
+        <F>0.2196078431372549</F>
+        <F>1</F>
+        <F>S053</F>
+        <F>Great Basin Semi-Desert Chaparral</F>
+      </Row>
+      <Row index="36">
+        <F>48</F>
+        <F>22776500</F>
+        <F>0.03137254901960784</F>
+        <F>0.6588235294117647</F>
+        <F>0.4392156862745098</F>
+        <F>1</F>
+        <F>S054</F>
+        <F>Inter-Mountain Basins Big Sagebrush Shrubland</F>
+      </Row>
+      <Row index="37">
+        <F>49</F>
+        <F>4185875</F>
+        <F>0.8117647058823529</F>
+        <F>0.4</F>
+        <F>0.1686274509803922</F>
+        <F>1</F>
+        <F>S055</F>
+        <F>Great Basin Xeric Mixed Sagebrush Shrubland</F>
+      </Row>
+      <Row index="38">
+        <F>50</F>
+        <F>1690454</F>
+        <F>0.3254901960784314</F>
+        <F>0.3725490196078432</F>
+        <F>0.4431372549019608</F>
+        <F>1</F>
+        <F>S056</F>
+        <F>Colorado Plateau Mixed Low Sagebrush Shrubland</F>
+      </Row>
+      <Row index="39">
+        <F>51</F>
+        <F>664111</F>
+        <F>0.6352941176470588</F>
+        <F>0.1882352941176471</F>
+        <F>0.2823529411764706</F>
+        <F>1</F>
+        <F>S057</F>
+        <F>Mogollon Chaparral</F>
+      </Row>
+      <Row index="40">
+        <F>53</F>
+        <F>10319487</F>
+        <F>0.5725490196078431</F>
+        <F>0.6039215686274509</F>
+        <F>0.5019607843137255</F>
+        <F>1</F>
+        <F>S059</F>
+        <F>Colorado Plateau Blackbrush-Mormon-tea Shrubland</F>
+      </Row>
+      <Row index="41">
+        <F>54</F>
+        <F>960307</F>
+        <F>0.6352941176470588</F>
+        <F>0.5411764705882353</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S060</F>
+        <F>Mojave Mid-Elevation Mixed Desert Scrub</F>
+      </Row>
+      <Row index="42">
+        <F>58</F>
+        <F>17547119</F>
+        <F>0.6901960784313725</F>
+        <F>0.5725490196078431</F>
+        <F>0.4392156862745098</F>
+        <F>1</F>
+        <F>S065</F>
+        <F>Inter-Mountain Basins Mixed Salt Desert Scrub</F>
+      </Row>
+      <Row index="43">
+        <F>60</F>
+        <F>1063046</F>
+        <F>0.6980392156862745</F>
+        <F>0.392156862745098</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S069</F>
+        <F>Sonora-Mojave Creosotebush-White Bursage Desert Scrub</F>
+      </Row>
+      <Row index="44">
+        <F>61</F>
+        <F>14035</F>
+        <F>0.9490196078431372</F>
+        <F>0.8235294117647058</F>
+        <F>0.6980392156862745</F>
+        <F>1</F>
+        <F>S070</F>
+        <F>Sonora-Mojave Mixed Salt Desert Scrub</F>
+      </Row>
+      <Row index="45">
+        <F>62</F>
+        <F>15927694</F>
+        <F>0.7215686274509804</F>
+        <F>0.407843137254902</F>
+        <F>0.7607843137254902</F>
+        <F>1</F>
+        <F>S071</F>
+        <F>Inter-Mountain Basins Montane Sagebrush Steppe</F>
+      </Row>
+      <Row index="46">
+        <F>64</F>
+        <F>10625</F>
+        <F>0.6901960784313725</F>
+        <F>0.5411764705882353</F>
+        <F>0.08235294117647059</F>
+        <F>1</F>
+        <F>S075</F>
+        <F>Inter-Mountain Basins Juniper Savanna</F>
+      </Row>
+      <Row index="47">
+        <F>66</F>
+        <F>626722</F>
+        <F>0.4980392156862745</F>
+        <F>0.7176470588235294</F>
+        <F>0.5529411764705883</F>
+        <F>1</F>
+        <F>S078</F>
+        <F>Inter-Mountain Basins Big Sagebrush Steppe</F>
+      </Row>
+      <Row index="48">
+        <F>67</F>
+        <F>9352458</F>
+        <F>0.4862745098039216</F>
+        <F>0.5647058823529412</F>
+        <F>0.803921568627451</F>
+        <F>1</F>
+        <F>S079</F>
+        <F>Inter-Mountain Basins Semi-Desert Shrub Steppe</F>
+      </Row>
+      <Row index="49">
+        <F>69</F>
+        <F>325880</F>
+        <F>0.2156862745098039</F>
+        <F>0.2</F>
+        <F>0.6862745098039216</F>
+        <F>1</F>
+        <F>S081</F>
+        <F>Rocky Mountain Dry Tundra</F>
+      </Row>
+      <Row index="50">
+        <F>70</F>
+        <F>554335</F>
+        <F>0.6352941176470588</F>
+        <F>0.7607843137254902</F>
+        <F>0.1372549019607843</F>
+        <F>1</F>
+        <F>S083</F>
+        <F>Rocky Mountain Subalpine Mesic Meadow</F>
+      </Row>
+      <Row index="51">
+        <F>71</F>
+        <F>661741</F>
+        <F>0.09019607843137255</F>
+        <F>0.5215686274509804</F>
+        <F>0.3137254901960784</F>
+        <F>1</F>
+        <F>S085</F>
+        <F>Southern Rocky Mountain Montane-Subalpine Grassland</F>
+      </Row>
+      <Row index="52">
+        <F>76</F>
+        <F>2304076</F>
+        <F>0.788235294117647</F>
+        <F>0.788235294117647</F>
+        <F>0.4313725490196079</F>
+        <F>1</F>
+        <F>S090</F>
+        <F>Inter-Mountain Basins Semi-Desert Grassland</F>
+      </Row>
+      <Row index="53">
+        <F>77</F>
+        <F>339741</F>
+        <F>0.4705882352941176</F>
+        <F>0.9490196078431372</F>
+        <F>0.5137254901960784</F>
+        <F>1</F>
+        <F>S091</F>
+        <F>Rocky Mountain Subalpine-Montane Riparian Shrubland</F>
+      </Row>
+      <Row index="54">
+        <F>78</F>
+        <F>4627</F>
+        <F>0.407843137254902</F>
+        <F>0.6392156862745098</F>
+        <F>0.9490196078431372</F>
+        <F>1</F>
+        <F>S092</F>
+        <F>Rocky Mountain Subalpine-Montane Riparian Woodland</F>
+      </Row>
+      <Row index="55">
+        <F>79</F>
+        <F>943275</F>
+        <F>0.1411764705882353</F>
+        <F>0.8274509803921568</F>
+        <F>0.7411764705882353</F>
+        <F>1</F>
+        <F>S093</F>
+        <F>Rocky Mountain Lower Montane Riparian Woodland and Shrubland</F>
+      </Row>
+      <Row index="56">
+        <F>80</F>
+        <F>22556</F>
+        <F>0.02745098039215686</F>
+        <F>0.6352941176470588</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S094</F>
+        <F>North American Warm Desert Lower Montane Riparian Woodland and Shrubland</F>
+      </Row>
+      <Row index="57">
+        <F>82</F>
+        <F>8197240</F>
+        <F>0.788235294117647</F>
+        <F>0.792156862745098</F>
+        <F>0.8901960784313725</F>
+        <F>1</F>
+        <F>S096</F>
+        <F>Inter-Mountain Basins Greasewood Flat</F>
+      </Row>
+      <Row index="58">
+        <F>83</F>
+        <F>10170</F>
+        <F>0</F>
+        <F>0.5647058823529412</F>
+        <F>0.2196078431372549</F>
+        <F>1</F>
+        <F>S097</F>
+        <F>North American Warm Desert Riparian Woodland and Shrubland</F>
+      </Row>
+      <Row index="59">
+        <F>84</F>
+        <F>3400</F>
+        <F>0.1725490196078431</F>
+        <F>0.7647058823529411</F>
+        <F>0.6078431372549019</F>
+        <F>1</F>
+        <F>S098</F>
+        <F>North American Warm Desert Riparian Mesquite Bosque</F>
+      </Row>
+      <Row index="60">
+        <F>85</F>
+        <F>534197</F>
+        <F>0.1098039215686275</F>
+        <F>0.5686274509803921</F>
+        <F>0.3137254901960784</F>
+        <F>1</F>
+        <F>S100</F>
+        <F>North American Arid West Emergent Marsh</F>
+      </Row>
+      <Row index="61">
+        <F>86</F>
+        <F>528860</F>
+        <F>0.4392156862745098</F>
+        <F>0.8784313725490196</F>
+        <F>0.3294117647058824</F>
+        <F>1</F>
+        <F>S102</F>
+        <F>Rocky Mountain Alpine-Montane Wet Meadow</F>
+      </Row>
+      <Row index="62">
+        <F>94</F>
+        <F>3217</F>
+        <F>0.792156862745098</F>
+        <F>0.05098039215686274</F>
+        <F>0</F>
+        <F>1</F>
+        <F>S114</F>
+        <F>Sonora-Mojave-Baja Semi-Desert Chaparral</F>
+      </Row>
+      <Row index="63">
+        <F>98</F>
+        <F>331750</F>
+        <F>0</F>
+        <F>0.2509803921568627</F>
+        <F>0.407843137254902</F>
+        <F>1</F>
+        <F>S118</F>
+        <F>Great Basin Foothill and Lower Montane Riparian Woodland and Shrubland</F>
+      </Row>
+      <Row index="64">
+        <F>104</F>
+        <F>5770</F>
+        <F>0.6705882352941176</F>
+        <F>0.6392156862745098</F>
+        <F>0.9490196078431372</F>
+        <F>1</F>
+        <F>S128</F>
+        <F>Wyoming Basins Low Sagebrush Shrubland</F>
+      </Row>
+      <Row index="65">
+        <F>108</F>
+        <F>981410</F>
+        <F>0.7529411764705882</F>
+        <F>0.02745098039215686</F>
+        <F>0.592156862745098</F>
+        <F>1</F>
+        <F>S136</F>
+        <F>Southern Colorado Plateau Sand Shrubland</F>
+      </Row>
+      <Row index="66">
+        <F>110</F>
+        <F>7548581</F>
+        <F>0</F>
+        <F>0</F>
+        <F>1</F>
+        <F>1</F>
+        <F>N11</F>
+        <F>Open Water</F>
+      </Row>
+      <Row index="67">
+        <F>111</F>
+        <F>2239034</F>
+        <F>0.5372549019607843</F>
+        <F>0.5372549019607843</F>
+        <F>0.5372549019607843</F>
+        <F>1</F>
+        <F>N21</F>
+        <F>Developed, Open Space - Low Intensity</F>
+      </Row>
+      <Row index="68">
+        <F>112</F>
+        <F>1235758</F>
+        <F>0.3137254901960784</F>
+        <F>0.3137254901960784</F>
+        <F>0.3137254901960784</F>
+        <F>1</F>
+        <F>N22</F>
+        <F>Developed, Medium - High Intensity</F>
+      </Row>
+      <Row index="69">
+        <F>113</F>
+        <F>51110</F>
+        <F>0.9254901960784314</F>
+        <F>0.8274509803921568</F>
+        <F>0.9254901960784314</F>
+        <F>1</F>
+        <F>N31</F>
+        <F>Barren Lands, Non-specific</F>
+      </Row>
+      <Row index="70">
+        <F>114</F>
+        <F>10405244</F>
+        <F>0.6941176470588235</F>
+        <F>0.2313725490196079</F>
+        <F>0.1372549019607843</F>
+        <F>1</F>
+        <F>N80</F>
+        <F>Agriculture</F>
+      </Row>
+      <Row index="71">
+        <F>115</F>
+        <F>101235</F>
+        <F>0.8470588235294118</F>
+        <F>0.8470588235294118</F>
+        <F>0.8470588235294118</F>
+        <F>1</F>
+        <F>D01</F>
+        <F>Disturbed, Non-specific</F>
+      </Row>
+      <Row index="72">
+        <F>116</F>
+        <F>192679</F>
+        <F>0.8509803921568627</F>
+        <F>0.05098039215686274</F>
+        <F>0.00392156862745098</F>
+        <F>1</F>
+        <F>D02</F>
+        <F>Recently Burned</F>
+      </Row>
+      <Row index="73">
+        <F>117</F>
+        <F>197503</F>
+        <F>0.1372549019607843</F>
+        <F>0.1882352941176471</F>
+        <F>0.02352941176470588</F>
+        <F>1</F>
+        <F>D03</F>
+        <F>Recently Mined or Quarried</F>
+      </Row>
+      <Row index="74">
+        <F>118</F>
+        <F>506298</F>
+        <F>0.4862745098039216</F>
+        <F>0.2823529411764706</F>
+        <F>0.392156862745098</F>
+        <F>1</F>
+        <F>D04</F>
+        <F>Invasive Southwest Riparian Woodland and Shrubland</F>
+      </Row>
+      <Row index="75">
+        <F>119</F>
+        <F>588349</F>
+        <F>0.9490196078431372</F>
+        <F>0.6901960784313725</F>
+        <F>0.7215686274509804</F>
+        <F>1</F>
+        <F>D06</F>
+        <F>Invasive Perennial Grassland</F>
+      </Row>
+      <Row index="76">
+        <F>121</F>
+        <F>3637006</F>
+        <F>0.6588235294117647</F>
+        <F>0.8235294117647058</F>
+        <F>0.5725490196078431</F>
+        <F>1</F>
+        <F>D08</F>
+        <F>Invasive Annual Grassland</F>
+      </Row>
+      <Row index="77">
+        <F>122</F>
+        <F>777722</F>
+        <F>0.8745098039215686</F>
+        <F>0.5215686274509804</F>
+        <F>0.4980392156862745</F>
+        <F>1</F>
+        <F>D09</F>
+        <F>Invasive Annual and Biennial Forbland</F>
+      </Row>
+      <Row index="78">
+        <F>123</F>
+        <F>337663</F>
+        <F>0.5882352941176471</F>
+        <F>0.5882352941176471</F>
+        <F>0.5882352941176471</F>
+        <F>1</F>
+        <F>D10</F>
+        <F>Recently Logged Areas</F>
+      </Row>
+      <Row index="79">
+        <F>124</F>
+        <F>514374</F>
+        <F>0.8117647058823529</F>
+        <F>0.8117647058823529</F>
+        <F>0.5882352941176471</F>
+        <F>1</F>
+        <F>D11</F>
+        <F>Recently Chained Pinyon-Juniper Areas</F>
+      </Row>
+      <Row index="80">
+        <F>125</F>
+        <F>57951</F>
+        <F>0.8352941176470589</F>
+        <F>0.8666666666666667</F>
+        <F>0.9019607843137255</F>
+        <F>1</F>
+        <F>D14</F>
+        <F>Disturbed, Oil well</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">1092.273245601463</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">125</MDI>
+      <MDI key="STATISTICS_MEAN">42.34366425477</MDI>
+      <MDI key="STATISTICS_MEDIAN">40.000000</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">33.049557419147</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

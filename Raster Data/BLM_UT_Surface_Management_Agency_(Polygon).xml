@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>BLM UT Surface Management Agency (Polygon)</title>
+                <onlink>https://gis.blm.gov/utarcgis/rest/services/Lands/BLM_UT_SMA/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The layers within this feature service represent the spatial extent and boundaries of the Surface Management Agency (SMA), which generally defines when the land is either: Withdrawn by some administrative or legislative action, acquired, or exchanged among government agencies. The Utah School and Institutional Trust Lands Administration (SITLA) holds responsibility maintaining land status for Utah and depicts this at the 1:24,000 scale. This information is published monthly by BLM to reflect changes in trust lands, other state land and private Land. While this dataset illustrates various government agency surface management areas and quantifies geographic acreage, these are computed by mathematical formulas. They are not derived from legal documents or associated with title documents or survey records. Data within these services are a live copy of BLM Utah's enterprise production environment. Quality control is conducted annually.Complete metadata for these data sets can be found at:BLM UT Surface Management Agency (Polygon)</abstract>
+            <purpose>The purpose of this dataset is to fulfill the public and Government’s need to know what agency is managing Federal land in a given area, and for use by BLM Staff during analysis and report preparation. For example, there may be a need to know what agency is managing a certain tract of land for the purpose of paying permit fees or obtaining licenses or becoming informed about access to and use of land. It is a starting point for various organizations, agencies, units of government (i.e., BLM Federal, state, county, and city), and other entities.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Administration</themekey>
+                <themekey>boundaries</themekey>
+                <themekey>Geospatial</themekey>
+                <themekey>Jurisdiction</themekey>
+                <themekey>Land Status</themekey>
+                <themekey>Management</themekey>
+                <themekey>Ownership</themekey>
+                <themekey>planningCadastre</themekey>
+                <themekey>SITLA</themekey>
+                <themekey>State Lands</themekey>
+                <themekey>Trust Lands</themekey>
+                <themekey>UT</themekey>
+                <themekey>Utah</themekey>
+                <themekey>Wilderness</themekey>
+                <themekey>Withdrawal</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>These data are provided by Bureau of Land Management (BLM) “as is” and may contain errors or omissions. The User assumes the entire risk associated with its use of these data and bears all responsibility in determining whether these data are fit for the User’s intended use. The information contained in these data is dynamic and may change over time. The data are not better than the sources from which they were derived, and both scale and accuracy may vary across the data set. These data might not have the accuracy, resolution, completeness, timeliness, or other characteristics appropriate for applications that potential users of the data may contemplate. The User is encouraged to carefully consider the content of the metadata file associated with these data. These data are neither legal documents nor land surveys, and must not be used as such. Official records may be referenced at most BLM offices. Please report any errors in the data to the BLM office from which it was obtained. The BLM should be cited as the data source in any products derived from these data. Any Users wishing to modify the data should describe the types of modifications they have performed. The User should not misrepresent the data, nor imply that changes made were approved or endorsed by BLM. These data may be updated by the BLM without notification.</useconst>
+        <datacred>Bureau of Land Management - Utah State Office; SITLA</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20220527</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
