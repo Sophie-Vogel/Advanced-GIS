@@ -1,2 +1,2 @@
 # Advanced-GIS
-All of the lab projects from WATS 4850
+Data and code for advanced GIS final project
