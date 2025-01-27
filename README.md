@@ -1,2 +1,2 @@
 # Advanced-GIS
-Data and code for advanced GIS final project
+Showcasing my advanced GIS final project. Created with ArcGIS Pro.
